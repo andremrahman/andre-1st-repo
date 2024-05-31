@@ -2,4 +2,6 @@ rencana2:
 git
 tailwind
 js
+*es6
+*framework
 php
