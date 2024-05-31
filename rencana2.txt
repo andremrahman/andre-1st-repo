@@ -1,0 +1,5 @@
+rencana2:
+git
+tailwind
+js
+php
