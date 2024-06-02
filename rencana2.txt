@@ -2,9 +2,10 @@ rencana2:
 git
 tailwind
 js
--angular
+-vue
 -react
 *es6
 *framework
 php
 -laravel
+python
