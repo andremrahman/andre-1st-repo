@@ -2,7 +2,9 @@ rencana2:
 git
 tailwind
 js
+-vue
 *es6
 *framework
 data structure
 php
+-laravel
